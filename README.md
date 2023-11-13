@@ -18,3 +18,7 @@ while (boolean condition):
     doSomethingElse
 ```
 
+```python
+for z in range(5):
+    print z
+```
